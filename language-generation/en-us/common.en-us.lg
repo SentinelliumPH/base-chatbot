@@ -1,0 +1,10 @@
+# WelcomeUser()
+[Activity
+    Text = Hello, Welcome to SentinelliumPH! How can I help you?
+	SuggestedActions = Trigger 1|Trigger 2
+]
+# Unknown()
+[Activity
+    Text = Sorry, I didn't quite catch that. How can I help you?
+	SuggestedActions = Trigger 1|Trigger 2
+]

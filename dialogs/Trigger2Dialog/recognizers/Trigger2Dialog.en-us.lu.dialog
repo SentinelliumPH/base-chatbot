@@ -1,0 +1,8 @@
+{
+  "$kind": "Microsoft.LuisRecognizer",
+  "id": "LUIS_Trigger2Dialog",
+  "applicationId": "=settings.luis.Trigger2Dialog_en_us_lu.appId",
+  "version": "=settings.luis.Trigger2Dialog_en_us_lu.version",
+  "endpoint": "=settings.luis.endpoint",
+  "endpointKey": "=settings.luis.endpointKey"
+}
